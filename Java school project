@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Air Pollution <Data></Data> </title>
+</head>
+<body>
+   <h1> Air Pollution <h1><Data></Data></h1>
+   <table>
+   <tr>
+   <th>Location</th>
+   <th>Pollutant</th>
+   <th>Concentration</th>
+   <th>Time</th>
+  </tr>
+  <tr>
+    <td>New York</td>
+    <td>PM2.5</td>
+    <td>20</td>
+    <td>2025-05-15 10:00</td>
+ </tr>
+ <tr>
+     <td>Los Angeles</td>
+     <td>NO2</td>
+     <td>30</td>
+     <td>2025-05-15 11:00</td>
+  </tr>
+  </table>
+</body>
+</html>
