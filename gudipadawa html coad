@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gudi Padwa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gudi Padwa</h1>
+        <p>Gudi Padwa is a traditional Marathi New Year festival celebrated in Maharashtra, India.</p>
+        
+        <h2>Significance</h2>
+        <p>It marks the beginning of the new year and is celebrated with great enthusiasm and fervor.</p>
+        
+        <h2>Traditions</h2>
+        <ul>
+            <li>Raising the Gudi (a decorated flag or banner)</li>
+            <li>Wearing new clothes</li>
+            <li>Exchanging sweets and gifts</li>
+            <li>Traditional food and decorations</li>
+        </ul>
+        
+        <h2>Wishes</h2>
+        <p>Happy Gudi Padwa! May this new year bring prosperity, happiness, and good fortune.</p>
+    </div>
+</body>
+</html>
+
+
+This code creates a basic webpage with information about Gudi Padwa, its significance, traditions, and wishes. You can customize the content and add more features as needed.
