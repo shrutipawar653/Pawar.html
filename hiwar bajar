@@ -1,0 +1,43 @@
+[9:09 PM, 6/30/2025] Sudha: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Family</title>
+</head>
+<body>
+    <h1>My Family</h1>
+    <p>This page is dedicated to my amazing family. We have so many wonderful memories together.</p>
+    <img src="family_photo.jpg" alt="My family" width="400">
+    <h2>Family Members</h2>
+    <ul>
+        <li>Father: [Father's Name]</li>
+        <li>Mother: [Mother's Name]</li>
+        <li>Siblings: [Sibling 1 Name], [Sibling 2 Name], ...</li>
+    </ul>
+</body>
+</html>
+[9:17 PM, 6/30/2025] Sudha: <html>
+<head>
+<title>Hiware Bazar: A Model Village</title>
+</head>
+<body>
+
+  <h1>Hiware Bazar: A Success Story in Water Conservation and Community Development</h1>
+
+  <img src="hiware_bazar_map.jpg" alt="Map of Hiware Bazar">
+
+  <p>Hiware Bazar, located in Maharashtra, India, has transformed from a drought-stricken village to a model of sustainable development.  The key to its success has been a focus on water conservation and community participation.</p>
+
+  <h2>Key Initiatives:</h2>
+  <ul>
+    <li><b>Water Conservation:</b> Implemented various measures to recharge groundwater and manage water resources effectively.</li>
+    <li><b>Community Involvement:</b>  The "four bandis" (bans on tree felling, free grazing, family planning, and liquor) were enacted with the support of the villagers.</li>
+  </ul>
+
+  <p>Learn more about Hiware Bazar's journey from a struggling village to a thriving community on our website.</p>
+
+  <a href="https://en.wikipedia.org/wiki/Hiware_Bazar">Read more on Wikipedia</a>
+
+</body>
+</html>
