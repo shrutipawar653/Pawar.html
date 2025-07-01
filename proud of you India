@@ -1,0 +1,101 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proud Indian</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+
+        .flag-container {
+            width: 300px;
+            height: 200px;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+            position: relative;
+        }
+
+        .flag-section {
+            height: 33.33%;
+            width: 100%;
+            position: absolute;
+        }
+
+        .saffron {
+            background-color: #FF9933;
+            top: 0;
+        }
+
+        .white {
+            background-color: white;
+            top: 33.33%;
+        }
+
+        .green {
+            background-color: #138808;
+            top: 66.66%;
+        }
+
+        .chakra {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: #000080;
+        }
+
+        .chakra-line {
+            position: absolute;
+            width: 2px;
+            height: 50px;
+            background-color: white;
+            top: 50%;
+            left: 50%;
+            transform-origin: bottom center;
+        }
+
+        .line1 { transform: translate(-50%, -50%) rotate(0deg); }
+        .line2 { transform: translate(-50%, -50%) rotate(22.5deg); }
+        .line3 { transform: translate(-50%, -50%) rotate(45deg); }
+        .line4 { transform: translate(-50%, -50%) rotate(67.5deg); }
+        .line5 { transform: translate(-50%, -50%) rotate(90deg); }
+        .line6 { transform: translate(-50%, -50%) rotate(112.5deg); }
+        .line7 { transform: translate(-50%, -50%) rotate(135deg); }
+        .line8 { transform: translate(-50%, -50%) rotate(157.5deg); }
+
+        .message {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="flag-container">
+        <div class="flag-section saffron"></div>
+        <div class="flag-section white">
+            <div class="chakra">
+                <div class="chakra-line line1"></div>
+                <div class="chakra-line line2"></div>
+                <div class="chakra-line line3"></div>
+                <div class="chakra-line line4"></div>
+                <div class="chakra-line line5"></div>
+                <div class="chakra-line line6"></div>
+                <div class="chakra-line line7"></div>
+                <div class="chakra-line line8"></div>
+            </div>
+        </div>
+        <div class="flag-section green"></div>
+    </div>
+    <div class="message">
+      <p>I am proud to be Indian!</p>
+    </div>
+</body>
+</html>
