@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>My Mother</title>
+</head>
+<body>
+
+    <h1>My Wonderful Mother</h1>
+
+    <img src="mother_image.jpg" alt="My Mother" width="300">
+
+    <p>
+        This is a page dedicated to my amazing mother. She is a wonderful person who has always been there for me. 
+        I am so grateful for everything she has done.
+    </p>
+
+    <h2>About My Mother</h2>
+    <ul>
+        <li><b>Name:</b> [Mother's Name]</li>
+        <li><b>Age:</b> [Mother's Age]</li>
+        <li><b>Occupation:</b> [Mother's Occupation]</li>
+        <li><b>Hobbies:</b> [Mother's Hobbies]</li>
+    </ul>
+
+    <h3>A Special Message</h3>
+    <p>
+        Mom, I love you! Thank you for everything.
+    </p>
+
+</body>
+</html>
