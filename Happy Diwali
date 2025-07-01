@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>Happy Diwali</title>
+<style>
+body {
+  background-color: #f0f0f0;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.diwali-card {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  color: #ff9900;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #666;
+  font-size: 18px;
+}
+
+.fireworks {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+.firework {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background-color: red;
+    border-radius: 50%;
+    animation: explode 1.5s ease-out infinite;
+}
+
+@keyframes explode {
+    0% {
+        transform: scale(0);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(10);
+        opacity: 0;
+    }
+}
+
+.firework:nth-child(2) {
+    left: 30%;
+    background-color: blue;
+    animation-delay: 0.2s;
+}
+
+.firework:nth-child(3) {
+    left: 70%;
+    background-color: green;
+    animation-delay: 0.4s;
+}
+
+.firework:nth-child(4) {
+    left: 50%;
+    background-color: yellow;
+    animation-delay: 0.6s;
+}
+
+.firework:nth-child(5) {
+    left: 10%;
+    background-color: purple;
+    animation-delay: 0.8s;
+}
+
+.firework:nth-child(6) {
+    left: 90%;
+    background-color: orange;
+    animation-delay: 1s;
+}
+
+</style>
+</head>
+<body>
+  <div class="diwali-card">
+    <h1>Happy Diwali!</h1>
+    <p>Wishing you a festival of lights and happiness!</p>
+    <div class="fireworks">
+        <div class="firework"></div>
+        <div class="firework"></div>
+        <div class="firework"></div>
+        <div class="firework"></div>
+        <div class="firework"></div>
+        <div class="firework"></div>
+    </div>
+  </div>
+</body>
+</html>
